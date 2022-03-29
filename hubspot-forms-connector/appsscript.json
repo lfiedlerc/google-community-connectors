@@ -1,0 +1,12 @@
+{
+  "dataStudio": {
+    "name": "HubSpot Forms Connector",
+    "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png",
+    "company": "Lindsey Fiedler",
+    "companyUrl": "https://academyofinventors.org",
+    "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/npm-downloads",
+    "supportUrl": "https://github.com/google/datastudio/issues",
+    "description": "Get HubSpot form submissions",
+    "sources": ["HubSpot"]
+  }
+}
