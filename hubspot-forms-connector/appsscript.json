@@ -1,12 +1,25 @@
 {
   "dataStudio": {
     "name": "HubSpot Forms Connector",
-    "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png",
-    "company": "Lindsey Fiedler",
-    "companyUrl": "https://academyofinventors.org",
-    "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/npm-downloads",
-    "supportUrl": "https://github.com/google/datastudio/issues",
+    "logoUrl": "https://raw.githubusercontent.com/lfiedlerc/google-community-connectors/main/logo.png",
+    "company": "lfiedlerc",
+    "companyUrl": "https://github.com/lfiedlerc/",
+    "addonUrl": "https://github.com/lfiedlerc/google-community-connectors/tree/main/hubspot-forms-connector",
+    "supportUrl": "https://github.com/lfiedlerc/google-community-connectors/issues",
     "description": "Get HubSpot form submissions",
-    "sources": ["HubSpot"]
+    "sources": [
+      "HubSpot"
+    ]
+  },
+  "runtimeVersion": "V8",
+  "exceptionLogging": "STACKDRIVER",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "OAuth2",
+        "version": "41",
+        "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF"
+      }
+    ]
   }
 }
